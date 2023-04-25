@@ -1,4 +1,4 @@
-# blender地面对齐插件  Align_to_Ground 
+# blender地面对齐插件  Align_to_Ground V1.0
 <h3>插件介绍：</h3>
 <p>让选中对象快速对其到地面，提高工作效率。</p>
 <h3>使用说明：</h3>
