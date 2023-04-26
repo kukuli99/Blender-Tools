@@ -9,3 +9,4 @@
 <p>In Blender, go to "Edit" -> "Preferences" -> "Add-ons", click "Install" and select the plugin file.</p>
 <p>After successful installation, the plugin will appear in the list. Check the box to activate it.</p>
 <p>Select an object and right-click. In the menu, "Align to Ground" will appear. Click it and the object will be automatically aligned to the ground. (Shortcut: shift+ctrl+G)</p>
+![demo](https://github.com/kukuli99/Blender-Tools/blob/main/demo.gif "demo")
